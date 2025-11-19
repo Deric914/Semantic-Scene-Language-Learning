@@ -1,0 +1,51 @@
+# SSML AXIOMS: The Three Irreducible Truths of Language
+
+These three axioms are the DNA of SSML. They cannot be compromised, debated, or voted out. Any code, feature, or design that violates these axioms will be rejected—no matter how elegant the implementation.
+
+---
+
+## **AXIOM 1: The Noun is the Universe**
+**"When you utter a noun, you name every instance of its kind in existence."**
+
+**Implementation Rule**:  
+In SSML's concept-building module, showing **one image of "cup" is forbidden**. You must show **minimum 5 different cups** (plastic, glass, mug, paper cup, measuring cup) while playing the **single unified speech form** "/kʌp/".  
+
+**Why**: The learner must unconsciously abstract "cup-ness" from infinite variance. This is not feature diversity—it's **ontological binding**.
+
+---
+
+## **AXIOM 2: The Sentence is Class Interaction**
+**"When you utter a sentence, you describe the interaction between categories of things—not individual things, but the sum of all possible interactions between those categories."**
+
+**Implementation Rule**:  
+In SSML's scene grammar module, the sentence "People drink water from a cup" **must not** be trained with specific avatars (Bob, Alice). It must use **abstract, interchangeable class representatives** (generic human silhouette, generic liquid shape, generic cup outline).  
+
+**Why**: The learner must grasp that "people" = any human, "drink" = any drinking action, "cup" = any vessel. This is **relational abstraction**, not story mode.
+
+---
+
+## **AXIOM 3: The Adjective is Value Judgment**
+**"When you utter an adjective, you apply value to a class of things or the sum of their interactions."**
+
+**Implementation Rule**:  
+Adjectives **enter the system last**, after 100+ hours of noun+verb training. They must be taught through **forced choice paradigms** (not labeling):  
+Show hot coffee vs. cold water → learner must choose "which is safe to touch?" → system reveals "cold" as "safe" value.
+
+**Why**: Adjectives are not attributes—they are **survival-relevant evaluations**. Teaching "big/small" without functional context is forbidden in SSML.
+
+---
+
+## **CONSTITUTIONAL AMENDMENT PROCESS**
+
+These axioms are **immutable** for SSML v1.0-v3.0.  
+Amendment requires:
+1. 10,000+ learner usage data points showing violation produces better outcomes
+2. Unanimous vote from 7-person "Guardian Council" (to be formed at v2.0)
+3. Public debate period of 90 days in Discussions#axiom-amendment
+
+**Until then, these are the laws of SSML's universe.**
+
+---
+
+*Eternalized by Deric Rice, 2025-11-17*  
+*To be inherited, not obeyed.*
